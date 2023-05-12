@@ -15,6 +15,8 @@
 - ♟️ I love playing **Video games** and watching **sci-fi** movies and shows. Undying love for cars.
    
 - 📫 How to reach me **kanishk.singh198@gmail.com**
+   
+- 🌐 My website (currently under progress) - **[Kanishk Singh](https://www.kanishksingh.dev/blogs)**
 </div>
    
 <h3 align="left">Connect with me:</h3>
